@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dce8612a-b93b-4d24-9cb9-c336733b97c3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2idMqO6po7aqZCmHhuVcY5FAUjJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Add.TC18.executor": "Run",
+    "TestNG.Add.TC25.executor": "Run",
+    "TestNG.Add.executor": "Run",
+    "TestNG.AddNewCategories.TC01.executor": "Run",
+    "TestNG.AddNewCategories.TC010.executor": "Run",
+    "TestNG.AddNewCategories.executor": "Run",
+    "TestNG.AddNewCategory.TC01.executor": "Run",
+    "TestNG.AddNewCategory.TC02.executor": "Run",
+    "TestNG.AddNewCategory.TC02_1.executor": "Run",
+    "TestNG.AddNewCategory.TC02_2.executor": "Run",
+    "TestNG.AddNewCategory.TC08.executor": "Run",
+    "TestNG.AddnewCategories.TC01_Login_unsuccessfully_when_do_not_input_anything.executor": "Run",
+    "TestNG.AddnewCategories.TC02.executor": "Run",
+    "TestNG.AddnewCategories.TC03.executor": "Run",
+    "TestNG.AddnewCategories.TC04.executor": "Run",
+    "TestNG.AddnewCategories.TC05.executor": "Run",
+    "TestNG.AddnewCategories.TC07.executor": "Run",
+    "TestNG.AddnewCategories.executor": "Run",
+    "TestNG.Demo.TC01.executor": "Run",
+    "TestNG.Demo.TC01_3.executor": "Run",
+    "TestNG.Demo.TC01_5.executor": "Run",
+    "TestNG.Demo.TC02.executor": "Run",
+    "TestNG.Demo.TC03_0.executor": "Run",
+    "TestNG.Demo.TC04.executor": "Run",
+    "TestNG.Demo.TC05.executor": "Run",
+    "TestNG.Demo.TC06.executor": "Run",
+    "TestNG.Demo.TC07.executor": "Run",
+    "TestNG.Demo.TC08.executor": "Run",
+    "TestNG.Demo.TC09.executor": "Run",
+    "TestNG.Demo.TC10.executor": "Run",
+    "TestNG.Demo.TC11.executor": "Run",
+    "TestNG.Demo.TC12.executor": "Run",
+    "TestNG.Demo.TC13.executor": "Run",
+    "TestNG.Demo.TC14.executor": "Run",
+    "TestNG.Demo.TC15.executor": "Run",
+    "TestNG.Demo.TC16.executor": "Run",
+    "TestNG.Demo.TC17.executor": "Run",
+    "TestNG.Demo.TC18.executor": "Run",
+    "TestNG.Demo.TC19.executor": "Run",
+    "TestNG.Demo.TC21.executor": "Run",
+    "TestNG.Demo.TC22.executor": "Run",
+    "TestNG.Demo.TC23.executor": "Run",
+    "TestNG.Demo.TC23f.executor": "Run",
+    "TestNG.Demo.TC24.executor": "Run",
+    "TestNG.Demo.TC26.executor": "Run",
+    "TestNG.Demo.TC28.executor": "Run",
+    "TestNG.Demo.TC37.executor": "Run",
+    "TestNG.Demo.executor": "Run",
+    "TestNG.Login.TC01.executor": "Run",
+    "TestNG.Login.TC010.executor": "Run",
+    "TestNG.Login.TC02.executor": "Run",
+    "TestNG.Login.TC03.executor": "Run",
+    "TestNG.Login.TC04.executor": "Run",
+    "TestNG.Login.TC06.executor": "Run",
+    "TestNG.Login.TC07.executor": "Run",
+    "TestNG.Login.TC08.executor": "Run",
+    "TestNG.Login.executor": "Run",
+    "TestNG.Loginhh.TC03.executor": "Run",
+    "TestNG.TestAdmin.TC01_0.executor": "Run",
+    "TestNG.TestAdmin.TC01_1.executor": "Run",
+    "TestNG.TestAdmin.TC01_2.executor": "Run",
+    "TestNG.TestAdmin.TC01_3.executor": "Run",
+    "TestNG.TestAdmin.TC01_4.executor": "Run",
+    "TestNG.TestAdmin.TC01_6.executor": "Run",
+    "TestNG.TestAdmin.TC02_0.executor": "Run",
+    "TestNG.TestAdmin.TC02_1.executor": "Run",
+    "TestNG.TestAdmin.TC03_0.executor": "Run",
+    "TestNG.TestAdmin.TC03_1.executor": "Run",
+    "TestNG.TestAdmin.TC03_2.executor": "Run",
+    "TestNG.TestAdmin.TC03_3.executor": "Run",
+    "TestNG.TestAdmin.TC03_4.executor": "Run",
+    "TestNG.TestAdmin.TC04.executor": "Run",
+    "TestNG.TestAdmin.TC05.executor": "Run",
+    "TestNG.TestAdmin.TC15.executor": "Run",
+    "TestNG.TestAdmin.TC18.executor": "Run",
+    "TestNG.TestAdmin.executor": "Run",
+    "TestNG.Testcases.TC.executor": "Run",
+    "TestNG.Testcases.TC01.executor": "Run",
+    "TestNG.Testcases.TC01_0.executor": "Run",
+    "TestNG.Testcases.TC01_1.executor": "Run",
+    "TestNG.Testcases.TC01_2.executor": "Run",
+    "TestNG.Testcases.TC01_3.executor": "Run",
+    "TestNG.Testcases.TC01_4.executor": "Run",
+    "TestNG.Testcases.TC01_5.executor": "Run",
+    "TestNG.Testcases.TC02.executor": "Run",
+    "TestNG.Testcases.TC021.executor": "Run",
+    "TestNG.Testcases.TC02_0.executor": "Run",
+    "TestNG.Testcases.TC02_1.executor": "Run",
+    "TestNG.Testcases.TC02_2.executor": "Run",
+    "TestNG.Testcases.TC02_4.executor": "Run",
+    "TestNG.Testcases.TC03.executor": "Run",
+    "TestNG.Testcases.TC03_0.executor": "Run",
+    "TestNG.Testcases.TC03_1.executor": "Run",
+    "TestNG.Testcases.TC04.executor": "Run",
+    "TestNG.Testcases.TC04_0.executor": "Run",
+    "TestNG.Testcases.TC05.executor": "Run",
+    "TestNG.Testcases.TC06.executor": "Run",
+    "TestNG.Testcases.executor": "Run",
+    "TestNG.Testcases.testUpdateAndSearch.executor": "Run",
+    "TestNG.Update.TC01.executor": "Run",
+    "TestNG.Update.TC02.executor": "Run",
+    "TestNG.Update.TC03.executor": "Run",
+    "TestNG.Update.TC05.executor": "Run",
+    "TestNG.Update.TC06.executor": "Run",
+    "TestNG.Update.TC4.executor": "Run",
+    "TestNG.Update.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/THIS PC/IdeaProjects/untitled",
+    "onboarding.tips.debug.path": "C:/Users/Nguyen Thi Trang/IdeaProjects/untitled/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nguyen Thi Trang\IdeaProjects\untitled\src\main\java" />
+      <recent name="C:\Users\Nguyen Thi Trang\IdeaProjects\untitled\browserDrivers" />
+      <recent name="C:\Users\Nguyen Thi Trang\IdeaProjects\untitled\libraries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestAdmin.TC05">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Art-Mura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Art-Mura" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Add" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ArtMura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.Add" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAdmin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ArtMura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestAdmin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAdmin.TC01_0" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ArtMura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestAdmin" />
+      <option name="METHOD_NAME" value="TC01_0" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAdmin.TC04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ArtMura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestAdmin" />
+      <option name="METHOD_NAME" value="TC04" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAdmin.TC05" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ArtMura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestAdmin" />
+      <option name="METHOD_NAME" value="TC05" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestAdmin.TC05" />
+        <item itemvalue="TestNG.TestAdmin" />
+        <item itemvalue="TestNG.TestAdmin.TC04" />
+        <item itemvalue="TestNG.TestAdmin.TC01_0" />
+        <item itemvalue="TestNG.Add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dce8612a-b93b-4d24-9cb9-c336733b97c3" name="Changes" comment="" />
+      <created>1719816193196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719816193196</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
